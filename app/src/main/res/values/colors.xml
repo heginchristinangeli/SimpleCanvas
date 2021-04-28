@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bgcolour">#ECE4DB</color>
+    <color name="pastelRed">#FFADAD</color>
+    <color name="pastelOrange">#FFD6A5</color>
+    <color name="pastelYellow">#FDFFB6</color>
+    <color name="pastelGreen">#CAFFBF</color>
+    <color name="pastelBlue">#9BF6FF</color>
+    <color name="pastelPurple">#BDB2FF</color>
+
+
+</resources>
